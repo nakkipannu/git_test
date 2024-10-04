@@ -1,1 +1,3 @@
 Some text
+
+More text. Cloned repo and testing if git working
